@@ -1,0 +1,3 @@
+## Just one dependency really
+
+pytest==5.2.1
